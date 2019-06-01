@@ -1,0 +1,1 @@
+This project is all about learning how to use basic git commands.
